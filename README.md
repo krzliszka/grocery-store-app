@@ -1,6 +1,6 @@
 # Grocery store management system
 
-### Web application built with Python Flask server (backend), HTML/CSS/JavaScript (frontend) and MySQL. 
+### Web application built with Python Flask server (back-end), HTML/CSS/JavaScript (front-end) and MySQL. 
 
 ![Alt text](/img/1.png?raw=true )
 ---
