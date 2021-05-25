@@ -30,7 +30,7 @@ def get_uom():
 def delete_product():
     return_id = products_dao.delete_product(connection, request.form['product_id'])
     response = jsonify({
-        'product_id': return_id
+        'product_id': return_id 
     })
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
