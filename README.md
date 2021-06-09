@@ -7,7 +7,7 @@
 #### Features:
 1. Products management - adding/removing products
 2. Adding new orders
-3. Store summary
+3. Store summary 
 
 ![Alt text](/img/2.png?raw=true )
 
